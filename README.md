@@ -3,7 +3,7 @@
 <hr/>
 
 
-<p align="left"> <a href="https://twitter.com/maina ke" target="blank"><img src="https://img.shields.io/twitter/follow/maina ke?logo=twitter&style=for-the-badge" alt="maina ke" /></a> </p>
+
 
 - 🔭 I’m currently working on **Frontend web development**
 
