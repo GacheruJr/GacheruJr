@@ -30,4 +30,10 @@
 <h3 align='center'>Github Trophies🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gacherujr" alt="gacherujr" /></a> </p>
 
+<br/>
+<br/> 
+<h3 align='center'>Streaks</h3>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gacherujr&" alt="gacherujr" /></p>
+
+
 
