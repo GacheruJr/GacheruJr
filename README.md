@@ -1,5 +1,5 @@
 <h1 align="center" class='strong'>Hi 👋, I'm Maina😁</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web frontend developer</h3>
 <hr/>
 
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact **i love playing video games**
 <hr/>
 
-<h3 align="left">You can hit me up on🤙🏾</h3>
+<h3 align="left">Hit me up on🤙🏾</h3>
 <p align="left">
 <a href="https://twitter.com/maina ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maina ke" height="30" width="30" /></a>
 <a href="https://fb.com/maina ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maina ke" height="30" width="30" /></a>
