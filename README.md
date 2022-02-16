@@ -33,7 +33,7 @@
 <br/>
 <br/> 
 <h3 align='center'>Streaks</h3>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gacherujr&" alt="gacherujr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gacherujr&" alt="gacherujr" /></p>
 
 
 
