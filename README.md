@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Frontend web development**
 
-- 🌱 I’m currently learning **Javascript Technologies**
+- 🌱 I’m currently learning **Javascript and PHP Technologies**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **mke445571@gmail.com**
 
-- ⚡ Fun fact **i love playing video games**
+- ⚡ Fun fact **i love exploring new technologies**
 <hr/>
 
 <h3 align="left">Hit me up on🤙🏾</h3>
