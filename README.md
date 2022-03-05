@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript and PHP Technologies**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **javascript projects**
 
 - 📫 How to reach me **mke445571@gmail.com**
 
